@@ -88,6 +88,12 @@ body {
   font-weight: 600;
   letter-spacing: 2px;
   cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  font-family: sans-serif;
+  font-weight: 500;
 }
 
 .btn:hover {
